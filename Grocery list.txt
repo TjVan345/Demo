@@ -5,3 +5,4 @@ jam
 peanuts
 eggs
 chips
+more chips
