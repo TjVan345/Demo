@@ -4,3 +4,4 @@ bread
 jam
 peanuts
 eggs
+chips
